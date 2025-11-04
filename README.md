@@ -18,12 +18,7 @@ This guide compares the leading Slack eDiscovery tools, outlines what each does 
 - Works with **Enterprise Grid and Standard plans**.
 - Fast exports to JSON, CSV, or PDF.
 - Private, on-premise, or secure cloud deployment.
-- Integrates with **Render, AWS, or GCP** for automation.
 - Transparent pricing — no per-custodian billing.
-
-### Weaknesses
-- Requires minimal setup (Slack app install + token configuration).
-- Not a review platform — designed for **collection/export**, not document tagging.
 
 ---
 
