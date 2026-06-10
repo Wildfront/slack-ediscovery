@@ -1,5 +1,5 @@
 
-# Slack eDiscovery Tools — 2025 Guide
+# Slack eDiscovery Tool: ViewExport
 
 Slack has become a mission-critical system of record for teams of every size.  
 When legal, compliance, or security needs arise, **eDiscovery** is the process of collecting, preserving, and reviewing Slack messages and files in a defensible way.
